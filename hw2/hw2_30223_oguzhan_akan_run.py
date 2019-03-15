@@ -3,7 +3,6 @@
 
 # In[1]:
 
-
 # Step 1. Import necessary libraries
 import wbdata
 import datetime
@@ -42,12 +41,15 @@ for country in south_american_country_codes:
             df = wbdata.get_dataframe(indicators, country=country, convert_date=True)
     except:
         pass
+    
+# Step 5. Write the data to csv file
 df.to_csv('hw2_30223_oguzhan_akan_data.csv')
 
-# Step 5. Import our regression file and run
+# Step 6. Import our regression file and run
 import hw2_30223_oguzhan_akan_regression as src
-regression_table, y, y_hat = src.manual_regression(path='hw2_30223_oguzhan_akan_data.csv',target='target_birth_rate', alpha=0.05)
-
-regression_table
-y
-y_hat
+path='hw2_30223_oguzhan_akan_data.csv'
+target='birth_rate'
+df = src.read_data(path,target)
+df = src.handle_na(df)
+src.draw_plot(df,target)
+regression_table, y, y_hat = src.findEstimates(df,target,alpha=0.05)
