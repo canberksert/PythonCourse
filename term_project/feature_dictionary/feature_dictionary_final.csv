@@ -1,0 +1,97 @@
+ID,Variable Name,Description,CONT_F
+1,HOME_LG_GOALS_L1W,Home team Number of goals scored 1 week ago in the league,cont
+2,HOME_LG_GOALS_L3W_COMB,Home team Number of goals scored in last 3 weeks in total in the league,cont
+3,HOME_LG_GOALS_H_L3W,Home team Number of goals scored 3 week ago in the league in home games,cont
+4,HOME_LG_GOALS_A_L1W,Home team Number of goals scored 1 week ago in the league in away games,cont
+5,HOME_LG_GOALS_A_L3W_COMB,Home team Number of goals scored in last 3 weeks in total in the league in away games,cont
+6,HOME_LG_SHOTS_L3W,Home team Number of shots 3 week ago in the league,cont
+7,HOME_LG_SHOTS_H_L2W,,cont
+8,HOME_LG_SHOTS_H_L3W_COMB,,cont
+9,HOME_LG_SHOTS_A_L2W,,cont
+10,HOME_LG_SHOTS_A_L3W_COMB,,cont
+11,AWAY_LG_GOALS_L3W,Away team Number of goals scored 3 week ago in the league,cont
+12,AWAY_LG_GOALS_H_L2W,Away team Number of goals scored 2 weeks ago in the league in Away games,cont
+13,AWAY_LG_GOALS_H_L3W_COMB,Away team Number of goals scored in last 3 weeks in total in the league in Away games,cont
+14,AWAY_LG_GOALS_A_L2W,Away team Number of goals scored 2 weeks ago in the league in away games,cont
+15,AWAY_LG_GOALS_A_L3W_COMB,Away team Number of goals scored in last 3 weeks in total in the league in away games,cont
+16,AWAY_LG_SHOTS_L3W,Away team Number of shots 3 week ago in the league,cont
+17,AWAY_LG_SHOTS_H_L2W,,cont
+18,AWAY_LG_SHOTS_H_L3W_COMB,,cont
+19,AWAY_LG_SHOTS_A_L2W,,cont
+20,AWAY_LG_SHOTS_A_L3W_COMB,,cont
+21,ABS_DIFF_MKT_VAL,Difference between two teams' market values,cont
+22,HOME_L0S_FIFA_SCR_DEF,Home team's current season FIFA defence rating,cont
+23,AWAY_L0S_FIFA_SCR_ATK,Away team's current season FIFA attack rating,cont
+24,AWAY_L0S_FIFA_SCR_DEF,Away team's current season FIFA defence rating,cont
+25,ABS_DIFF_L0S_FIFA_SCR_ATK,Difference in FIFA attack ratings of two team,cont
+26,ABS_DIFF_L0S_FIFA_SCR_DEF,Difference in FIFA defence ratings of two team,cont
+27,HOME_LG_SHOTS_OT_L1W,,cont
+28,HOME_LG_SHOTS_OT_L3W_COMB,,cont
+29,HOME_LG_SHOTS_OT_H_L2W,,cont
+30,HOME_LG_SHOTS_OT_H_L3W_COMB,,cont
+31,HOME_LG_SHOTS_OT_A_L2W,,cont
+32,HOME_LG_SHOTS_OT_A_L3W_COMB,,cont
+33,AWAY_LG_SHOTS_OT_L2W,,cont
+34,AWAY_LG_SHOTS_OT_L3W_COMB,,cont
+35,AWAY_LG_SHOTS_OT_H_L2W,,cont
+36,AWAY_LG_SHOTS_OT_H_L3W_COMB,,cont
+37,AWAY_LG_SHOTS_OT_A_L2W,,cont
+38,AWAY_LG_SHOTS_OT_A_L3W_COMB,,cont
+39,H2H_TOT_CORNERS_HA_L2G,,cont
+40,H2H_TOT_CORNERS_HA_L3G_AVG,,cont
+41,H2H_TOT_SHOTS_HA_L2G,,cont
+42,H2H_TOT_SHOTS_HA_L3G_AVG,,cont
+43,HOME_LG_GOALS_L2W,Home team Number of goals scored 2 weeks ago in the league,cont
+44,HOME_LG_GOALS_H_L1W,Home team Number of goals scored 1 week ago in the league in home games,cont
+45,HOME_LG_GOALS_H_L3W_COMB,Home team Number of goals scored in last 3 weeks in total in the league in home games,cont
+46,HOME_LG_GOALS_A_L2W,Home team Number of goals scored 2 weeks ago in the league in away games,cont
+47,HOME_LG_SHOTS_L1W,Home team Number of shots 1 week ago in the league,cont
+48,HOME_LG_SHOTS_L3W_COMB,Home team Number of shots in last 3 weeks in total in the league,cont
+49,HOME_LG_SHOTS_H_L3W,,cont
+50,HOME_LG_SHOTS_A_L1W,,cont
+51,HOME_LG_SHOTS_A_L3W,,cont
+52,AWAY_LG_GOALS_L1W,Away team Number of goals scored 1 week ago in the league,cont
+53,AWAY_LG_GOALS_L3W_COMB,Away team Number of goals scored in last 3 weeks in total in the league,cont
+54,AWAY_LG_GOALS_H_L3W,Away team Number of goals scored 3 week ago in the league in Away games,cont
+55,AWAY_LG_GOALS_A_L1W,Away team Number of goals scored 1 week ago in the league in away games,cont
+56,AWAY_LG_GOALS_A_L3W,Away team Number of goals scored 3 week ago in the league in away games,cont
+57,AWAY_LG_SHOTS_L1W,Away team Number of shots 1 week ago in the league,cont
+58,AWAY_LG_SHOTS_L3W_COMB,Away team Number of shots in last 3 weeks in total in the league,cont
+59,AWAY_LG_SHOTS_H_L3W,,cont
+60,AWAY_LG_SHOTS_A_L1W,,cont
+61,AWAY_LG_SHOTS_A_L3W,,cont
+62,HOME_MKT_VAL,Home team's market value,cont
+63,HOME_L0S_FIFA_SCR_ATK,Home team's current season FIFA attack rating,cont
+64,HOME_L0S_FIFA_SCR_OVR,Home team's current season FIFA overall rating,cont
+65,AWAY_L0S_FIFA_SCR_ORT,Away team's current season FIFA midfield rating,cont
+66,AWAY_L0S_FIFA_SCR_OVR,Away team's current season FIFA overall rating,cont
+67,ABS_DIFF_L0S_FIFA_SCR_ORT,Difference in FIFA midfield ratings of two team,cont
+68,ABS_DIFF_L0S_FIFA_SCR_OVR,Difference in FIFA overall ratings of two team,cont
+69,HOME_LG_SHOTS_OT_L2W,,cont
+70,HOME_LG_SHOTS_OT_H_L1W,,cont
+71,HOME_LG_SHOTS_OT_H_L3W,,cont
+72,HOME_LG_SHOTS_OT_A_L1W,,cont
+73,HOME_LG_SHOTS_OT_A_L3W,,cont
+74,AWAY_LG_SHOTS_OT_L1W,,cont
+75,AWAY_LG_SHOTS_OT_L3W,,cont
+76,AWAY_LG_SHOTS_OT_H_L1W,,cont
+77,AWAY_LG_SHOTS_OT_H_L3W,,cont
+78,AWAY_LG_SHOTS_OT_A_L1W,,cont
+79,AWAY_LG_SHOTS_OT_A_L3W,,cont
+80,H2H_TOT_CORNERS_HA_L1G,,cont
+81,H2H_TOT_CORNERS_HA_L3G,,cont
+82,H2H_TOT_SHOTS_HA_L1G,,cont
+83,H2H_TOT_SHOTS_HA_L3G,,cont
+84,MKT_VAL_RATIO,,cont
+85,HOME_LG_GOALS_L3W,Home team Number of goals scored 3 week ago in the league,cont
+86,HOME_LG_GOALS_H_L2W,Home team Number of goals scored 2 weeks ago in the league in home games,cont
+87,HOME_LG_GOALS_A_L3W,Home team Number of goals scored 3 week ago in the league in away games,cont
+88,HOME_LG_SHOTS_L2W,Home team Number of shots 2 weeks ago in the league,cont
+89,HOME_LG_SHOTS_H_L1W,,cont
+90,AWAY_LG_GOALS_L2W,Away team Number of goals scored 2 weeks ago in the league,cont
+91,AWAY_LG_GOALS_H_L1W,Away team Number of goals scored 1 week ago in the league in Away games,cont
+92,AWAY_LG_SHOTS_L2W,Away team Number of shots 2 weeks ago in the league,cont
+93,AWAY_LG_SHOTS_H_L1W,,cont
+94,AWAY_MKT_VAL,Away team's market value,cont
+95,HOME_L0S_FIFA_SCR_ORT,Home team's current season FIFA midfield rating,cont
+96,HOME_LG_SHOTS_OT_L3W,,cont
